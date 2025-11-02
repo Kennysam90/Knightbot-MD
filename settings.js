@@ -1,7 +1,7 @@
 'Professor'ettings = {
   packname: 'Knight Bot',
   author: '‎',
-  botName: "Knight Bot",
+  botName: "Evill",
   botOwn'Evill', // Your name
   ownerNumber: '2347049797667', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
